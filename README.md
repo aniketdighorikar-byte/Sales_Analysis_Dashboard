@@ -35,7 +35,6 @@ The cleaned dataset was transformed into an interactive Excel dashboard that ena
 
 ## Author
 
-Your Name
+Your Name : Aniket Dighorikar
 
-GitHub:
-LinkedIn:
+GitHub: aniketdighorikar-byte
